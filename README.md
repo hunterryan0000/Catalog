@@ -1,7 +1,7 @@
 # Catalog
 
 ## Table of Contents
-1. [About the Project](#about-the-project)
+1. [About The Project](#about-the-project)
 2. [Features](#features)
 3. [Use Cases](#use-cases)
 4. [Getting Started](#getting-started)
